@@ -1,0 +1,12 @@
+[
+	{ "s": "IDENTIFICAR", "p": [10, 9] },
+	{ "s": "IMAGEN", "p": [20, 15, 4, 2] },
+	{ "s": "INDICARÁ", "p": [11] },
+	{ "s": "INFORMACIÓN", "p": [13] },
+	{ "s": "INGRESAR", "p": [23] },
+	{ "s": "INSERT", "p": [3] },
+	{ "s": "INSTRUCCIONES", "p": [1] },
+	{ "s": "INTERFACES", "p": [4, 2] },
+	{ "s": "INTERFAZ", "p": [14, 13, 12, 8, 7] },
+	{ "s": "INTERÉS", "p": [23, 18] }
+]

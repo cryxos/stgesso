@@ -1,0 +1,19 @@
+[
+	{ "s": "RANGO", "p": [21] },
+	{ "s": "RANGOS", "p": [18] },
+	{ "s": "REALIZARÁ", "p": [6] },
+	{ "s": "REFERENCIA", "p": [6] },
+	{ "s": "REGISTRADAS", "p": [22] },
+	{ "s": "REGISTRADOS", "p": [11] },
+	{ "s": "REGISTRARLA", "p": [6] },
+	{ "s": "REGISTRO", "p": [6, 21, 13] },
+	{ "s": "RELACIONADO", "p": [4, 2] },
+	{ "s": "REPOSITORIO", "p": [17, 16] },
+	{ "s": "REPOSITORIOS", "p": [15] },
+	{ "s": "REPRESENTADA", "p": [16] },
+	{ "s": "REQUIERE", "p": [10, 9] },
+	{ "s": "RESPECTIVAS", "p": [18] },
+	{ "s": "RESTRICCIONES", "p": [8] },
+	{ "s": "ROL", "p": [8, 14, 13, 12, 10, 9] },
+	{ "s": "ROLES", "p": [14, 8, 13, 12, 10, 9] }
+]

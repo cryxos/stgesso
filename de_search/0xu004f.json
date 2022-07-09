@@ -1,0 +1,12 @@
+[
+	{ "s": "O", "p": [6, 8] },
+	{ "s": "OBJETO", "p": [23] },
+	{ "s": "OBJETOS", "p": [23, 18] },
+	{ "s": "OBLIGATORIAMENTE", "p": [10, 9] },
+	{ "s": "OPCIONES", "p": [21, 18, 20, 15] },
+	{ "s": "OPCIÓN", "p": [11, 5] },
+	{ "s": "OPERACIÓN", "p": [14] },
+	{ "s": "OPERATIVA", "p": [10, 9] },
+	{ "s": "ORGANIZACION", "p": [9] },
+	{ "s": "ORGANIZACIÓN", "p": [4, 2] }
+]
